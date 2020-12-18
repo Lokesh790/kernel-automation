@@ -16,8 +16,8 @@ on:
     
 
 env:
-  KERNEL_SOURCE: https://github.com/Lokesh790/thunder.git
-  BRANCH: radeon
+  KERNEL_SOURCE: https://github.com/Lokesh790/alps.git
+  BRANCH: alps
   DEFCONFIG: oppo6771_18611_defconfig
   TZ: Asia/Kolkata
   MIR: wet
