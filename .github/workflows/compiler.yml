@@ -21,7 +21,7 @@ env:
   DEFCONFIG: oppo6771_18611_defconfig
   TZ: Asia/Kolkata
   MIR: wet
-  TOOLCHAIN: https://github.com/mscalindt/aarch64-linux-android-4.9.git
+  TOOLCHAIN: https://gitlab.com/Baibhab34/aarch64-linux-android-4.9.git --depth 69
   ARCH: arm64
   SUBARCH: arm64
 jobs:
