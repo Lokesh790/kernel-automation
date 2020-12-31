@@ -16,8 +16,8 @@ on:
     
 
 env:
-  KERNEL_SOURCE: https://github.com/Lokesh790/thunder.git
-  BRANCH: Ravan
+  KERNEL_SOURCE: https://github.com/RADEON7/Thunder_RMX1831.git
+  BRANCH: alps-rebase
   DEFCONFIG: oppo6771_18611_defconfig
   TZ: Asia/Kolkata
   MIR: wet
